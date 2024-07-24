@@ -1,18 +1,20 @@
-- 'DOMAIN-SUFFIX,emby.awyer.top,DIRECT'
-    - 'DOMAIN-SUFFIX,chatgpt.com,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,cdn.auth0.com,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,challenges.cloudflare.com,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,identrust.com,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,ai.com,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,openai.com,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,o33249.ingest.sentry.io,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,openaicom.imgix.net,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,datadoghq.com,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,statsig.com,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,livekit.cloud,🤖 OpenAI'
-    - 'DOMAIN-SUFFIX,oaistatic.com,🤖 OpenAI'
+
+# Dingsi
+# 自用AI网址库
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,oaistatic.com
